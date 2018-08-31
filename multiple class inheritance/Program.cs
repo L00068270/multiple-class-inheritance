@@ -12,7 +12,7 @@ namespace multiple_class_inheritance
         {
             Customer4 c4 = new Customer4();
             c4.Print();
-            Console.WriteLine("Please press ENTER to terminate");
+            Console.WriteLine("Please press ENTER to terminate program");
             Console.Read();
         }
     }
